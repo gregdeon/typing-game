@@ -1,0 +1,11 @@
+#game-canvas {
+	width: 800px;
+	height: 600px;
+
+	/* Center the canvas in the container */
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
